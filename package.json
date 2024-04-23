@@ -1,0 +1,36 @@
+{
+  "name": "iot-lorawan",
+  "version": "1.0.2",
+  "description": "lorawan sdk for node.js",
+  "main": "index.js",
+  "scripts": {
+    "simulator": "node examples/simulator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndinigsihj/iot-lorawan.git"
+  },
+  "keywords": [
+    "senzflow",
+    "iot",
+    "sdk"
+  ],
+  "author": "bigrodxyz@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "mqtt": "^1.6.3",
+    "private-parts": "^0.4.1"
+  },
+  "optionalDependencies": {
+    "nopt": "^3.0.6"
+  },
+  "bugs": {
+    "url": "https://github.com/ndinigsihj/issues"
+  },
+  "homepage": "https://github.com/ndinigsihj#readme",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  }
+}
