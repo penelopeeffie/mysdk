@@ -115,4 +115,3 @@ _QoS选择_：
 
 * 进一步了解 [senzflow docs](/resource)
 * 欢迎 [贡献代码](https://github.com/senzflow/senzflow-sdk.js/pulls)
-* 需要业务上的帮助, 请[联系我们](/contacts)
