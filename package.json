@@ -1,7 +1,7 @@
 {
   "name": "iot-lorawan",
   "version": "1.0.2",
-  "description": "lorawan sdk for node.js",
+  "description": "lorawan new sdk for node.js",
   "main": "index.js",
   "scripts": {
     "simulator": "node examples/simulator.js"
